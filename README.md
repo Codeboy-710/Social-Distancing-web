@@ -2,6 +2,10 @@
 - Real-time Social Distancing Detection System using YOLOv8, OpenCV, and Gradio. Supports video upload, live webcam monitoring, and analytics dashboard with risk detection.
 - It supports both **video upload** and **live webcam monitoring**, along with a live analytics dashboard and session history tracking.
 
+## 🌐 Live Demo
+👉 https://codeboy710-social-distancing-detector.hf.space
+
+
 ## 🚀 Features
 
 - 🎯 Real-time person detection using YOLOv8
