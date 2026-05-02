@@ -1,2 +1,67 @@
-# Social Distancing web
-Real-time Social Distancing Detection System using YOLOv8, OpenCV, and Gradio. Supports video upload, live webcam monitoring, and analytics dashboard with risk detection.
+# 🦠 Social Distancing Detection System
+- Real-time Social Distancing Detection System using YOLOv8, OpenCV, and Gradio. Supports video upload, live webcam monitoring, and analytics dashboard with risk detection.
+- It supports both **video upload** and **live webcam monitoring**, along with a live analytics dashboard and session history tracking.
+
+## 🚀 Features
+
+- 🎯 Real-time person detection using YOLOv8
+- 📏 Distance-based social distancing violation detection
+- 📊 Live analytics dashboard (safety score, density, risk level)
+- 📹 Video upload processing
+- 📷 Live webcam monitoring
+- 🧠 Risk classification (LOW / HIGH / CRITICAL)
+- 🕘 History tracking of analyzed sessions
+- ⚡ Lightweight and fast inference
+
+---
+
+## 🧠 Tech Stack
+
+- Python 🐍
+- YOLOv8 (Ultralytics)
+- OpenCV
+- NumPy
+- SciPy (distance calculations)
+- Gradio (UI framework)
+
+## 📂 Project Structure
+
+
+Social Distancing web/
+│
+├── app.py # Main application
+├── requirements.txt # Dependencies
+├── .gitignore
+├── README.md
+└── assets/ # (optional images/screenshots)
+
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/social-distancing-ai.git
+cd social-distancing-ai
+```
+## 2. Install dependencies
+pip install -r requirements.txt
+
+
+## 3. Run the application
+```bash
+python app.py
+
+```
+⚠️ Note:
+YOLOv8 model (yolov8n.pt) is automatically downloaded on first run.
+Do NOT upload .pt or .weights files to GitHub (handled via .gitignore).
+Ensure webcam permissions are enabled for live mode.
+
+```
+👨‍💻 Author
+
+Gourav Adhikary
+
+Full Stack Developer (MERN)
+AI/ML Enthusiast
+Focus: GenAI + Computer Vision
