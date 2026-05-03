@@ -21,6 +21,20 @@
 - ⚡ Lightweight and fast inference
 
 ---
+### Detection Screens
+
+<p float="left">
+  <img src="AppSS/Screenshot (307).png" width="250"/>
+  <img src="AppSS/Screenshot (308).png" width="250"/>
+  <img src="AppSS/Screenshot (309).png" width="250"/>
+</p>
+
+<p float="left">
+  <img src="AppSS/Screenshot (310).png" width="250"/>
+  <img src="AppSS/Screenshot (311).png" width="250"/>
+  <img src="AppSS/Screenshot (312).png" width="250"/>
+</p>
+---
 
 ## 🧠 Tech Stack
 
