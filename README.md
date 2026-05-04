@@ -48,13 +48,13 @@
 ## 📂 Project Structure
 
 
-Social Distancing web/
-│
-├── app.py # Main application
-├── requirements.txt # Dependencies
-├── .gitignore
-├── README.md
-└── assets/ # (optional images/screenshots)
+Social Distancing web/  
+│  
+├── app.py (Main application)  
+├── requirements.txt (Dependencies)  
+├── .gitignore  
+├── README.md  
+└── assets/  (optional images/screenshots)
 
 
 ## ⚙️ Installation & Setup
