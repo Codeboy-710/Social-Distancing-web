@@ -5,8 +5,8 @@
 ## 🌐 Live Demo
 👉 https://codeboy710-social-distancing-detector.hf.space
 
-> ⚠️ **Note:** The live demo runs on a CPU-based environment, so performance may be slower.  
-> For optimal real-time performance, please run the project locally on your system.
+> ⚠️ **Note:** The live demo runs on a CPU-based environment, so performance may be significantly slower than real-time.  
+> For best results and smooth real-time processing, please run the project locally on a GPU-enabled system.
 
 
 ## 🚀 Features
