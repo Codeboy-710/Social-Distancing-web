@@ -61,8 +61,8 @@ Social Distancing web/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/social-distancing-ai.git
-cd social-distancing-ai
+git clone https://github.com/your-username/social-distancing-web.git
+cd social-distancing-web
 ```
 ## 2. Install dependencies
 ```bash
